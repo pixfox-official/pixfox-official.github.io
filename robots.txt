@@ -1,12 +1,5 @@
 User-agent: *
 Allow: /
 
-# Блокируем системные и служебные папки
-Disallow: /.*
-Disallow: /node_modules/
-Disallow: /vendor/
-Disallow: /_site/
-Disallow: /assets/
-
 # Указываем путь к карте сайта
 Sitemap: https://pixfox-official.github.io/sitemap.xml
