@@ -1,5 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
 User-agent: *
 Allow: /
 
-# Указываем путь к карте сайта
 Sitemap: https://pixfox-official.github.io/sitemap.xml
